@@ -21,7 +21,7 @@
     "enable_dark_mode_as_default_theme": false
   },
   "ads": {
-    "status": false,
+    "status": true,
     "main_ads": "admob",
     "backup_ads": "facebook",
     "ads_unit_id": {
